@@ -1,0 +1,7 @@
+{
+  "name": "Ana",
+  "age": 30,
+  "active": true,
+  "contact": { "email": "ana@example.com" },
+  "empty": null
+}
